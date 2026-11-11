@@ -395,5 +395,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Community contributions welcome!
 
 ---
+Commit History from Previous Development (before I shifted the project to new GitHub Account) -
 
-**Remember: The goal is to test resilience, not destroy production systems!** ðŸŽ­ 
+feat: implement pod deletion chaos experiment
+---
+feat: add memory stress injection
+---
+feat: implement process killing experiment
+---
+feat: add cron-based experiment scheduling
+---
+feat: implement label-based pod targeting
+---
+test: add chaos experiment integration tests
+---
+ci: configure GitHub Actions pipeline
+---
+docs: add Kubernetes deployment guide
